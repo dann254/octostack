@@ -1,0 +1,12 @@
+.blob-wrapper::-webkit-scrollbar{
+  background-color: transparent;
+    width: 5px;
+    height: 5px;
+}
+.blob-wrapper::-webkit-scrollbar-track {
+      background-color: transparent;
+}
+.blob-wrapper::-webkit-scrollbar-thumb {
+      background-color: rgb(133,133,133);
+      border-radius: 3px;
+}
